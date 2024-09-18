@@ -1,0 +1,12 @@
+Nombre: Mario
+Edad: 13
+Altura: 1.29 metros
+
+Nombre: Jorge
+Edad: 18
+Altura: 1.89 metros
+
+Nombre: Rafita
+Edad: 24
+Altura: 1.76 metros
+
